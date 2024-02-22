@@ -1,0 +1,5 @@
+this is simple text file that is in Eclipse
+
+this is the next line
+this is the third line
+this is the fourth line

@@ -1,0 +1,7 @@
+this is first line to be writtenthis is second line to be written
+this is third line to be written
+this is simple text file that is in Eclipse
+
+this is the next line
+this is the third line
+this is the fourth line
